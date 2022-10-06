@@ -1,0 +1,15 @@
+C:\Users\Somber\source\repo 2\shopping list\shopping list\bin\Debug\net6.0\shopping list.exe
+C:\Users\Somber\source\repo 2\shopping list\shopping list\bin\Debug\net6.0\shopping list.deps.json
+C:\Users\Somber\source\repo 2\shopping list\shopping list\bin\Debug\net6.0\shopping list.runtimeconfig.json
+C:\Users\Somber\source\repo 2\shopping list\shopping list\bin\Debug\net6.0\shopping list.dll
+C:\Users\Somber\source\repo 2\shopping list\shopping list\bin\Debug\net6.0\shopping list.pdb
+C:\Users\Somber\source\repo 2\shopping list\shopping list\obj\Debug\net6.0\shopping list.csproj.AssemblyReference.cache
+C:\Users\Somber\source\repo 2\shopping list\shopping list\obj\Debug\net6.0\shopping list.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Somber\source\repo 2\shopping list\shopping list\obj\Debug\net6.0\shopping list.AssemblyInfoInputs.cache
+C:\Users\Somber\source\repo 2\shopping list\shopping list\obj\Debug\net6.0\shopping list.AssemblyInfo.cs
+C:\Users\Somber\source\repo 2\shopping list\shopping list\obj\Debug\net6.0\shopping list.csproj.CoreCompileInputs.cache
+C:\Users\Somber\source\repo 2\shopping list\shopping list\obj\Debug\net6.0\shopping list.dll
+C:\Users\Somber\source\repo 2\shopping list\shopping list\obj\Debug\net6.0\refint\shopping list.dll
+C:\Users\Somber\source\repo 2\shopping list\shopping list\obj\Debug\net6.0\shopping list.pdb
+C:\Users\Somber\source\repo 2\shopping list\shopping list\obj\Debug\net6.0\shopping list.genruntimeconfig.cache
+C:\Users\Somber\source\repo 2\shopping list\shopping list\obj\Debug\net6.0\ref\shopping list.dll
